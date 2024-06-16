@@ -5,7 +5,7 @@ This is my personal website built using the "Resume" theme from Start Bootstrap.
 
 ## Preview
 
-[![Website Preview](https://startbootstrap.github.io/startbootstrap-resume/assets/img/preview.png)](https://siyegam.github.io/sieunHNU.github.io/)
+[![Website Preview](file:///C:/Users/kgwan/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/startbootstrap-resume-gh-pages/index.html)
 
 
 
