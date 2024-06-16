@@ -8,6 +8,7 @@ This is my personal website built using the "Resume" theme from Start Bootstrap.
 [![Website Preview](https://startbootstrap.github.io/startbootstrap-resume/assets/img/preview.png)](https://siyegam.github.io/sieunHNU.github.io/)
 
 **[View Live Preview](https://siyegam.github.io/sieunHNU.github.io/)**
+한국말되나?
 
 ## Repository
 
