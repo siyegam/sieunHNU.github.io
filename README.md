@@ -3,11 +3,6 @@
 
 This is my personal website built using the "Resume" theme from Start Bootstrap. The website is designed to showcase my interests, skills, projects, goal, and plans. It features a clean, responsive layout with a fixed sidebar for easy navigation.
 
-## Preview
-
-[![Website Preview](sieunHNU.github.io/index.html)
-
-
 
 ## Repository
 
